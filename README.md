@@ -1,6 +1,6 @@
 
 Introducción a Machine Learning con Python <br>
-MSc. Elian Laura <br>
+
 <br>
 Presentación: <br>  https://docs.google.com/presentation/d/16lmP-a8nNIdvxTmH2d_eKJM_dwaqOaoSmvi5Mvql1_4/edit?usp=sharing
 <br>
